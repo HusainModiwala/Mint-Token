@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
+    "@metaplex-foundation/umi": "^0.9.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
+    "@metaplex-foundation/umi-web3js-adapters": "^0.9.1",
+    "@solana/spl-token": "^0.4.3",
+    "@solana/web3.js": "^1.91.1"
+  },
+  "scripts": {
+    "start": "ts-node ./metadata.ts"
+  }
+}
